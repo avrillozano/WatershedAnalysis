@@ -15,6 +15,9 @@ Within non-toxic metals that occur naturally, like Aluminum, Iron, Zinc, Copper,
 
 Within the toxic metals, Lead and Cadmium made up the majority of the tests. Additionally, Lead and Barium showed the highest average readings among toxic metals, though overall numbers stayed low.
 
+## Dataset
+The dataset can be downloaded [here](https://data.austintexas.gov/Environment/Water-Quality-Sampling-Data/5tye-7ray/about_data).
+
 ## Packages used
 ```{r}
 library(shiny)
