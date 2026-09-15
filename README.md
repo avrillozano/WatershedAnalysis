@@ -1,10 +1,10 @@
 # Watershed Analysis
+## [LINK TO THE PROJECT](https://avrillozano.shinyapps.io/Project3/)
 <img width="2962" height="1936" alt="AustinSkylineLouNeffPoint-Jun2010-a" src="https://github.com/user-attachments/assets/3c892b9f-88af-46ab-84f8-b6b1631cdb77" />
 
 ## Description
 It was a hot summer day, and I was on a run across Shoal Creek leading into Lady Bird lake. As I was running, I was noticing that the water was very disgusting, full of scum and pipe runoff. I wondered to myself, *what even is in this water?* *Has it changed a lot over time?* I did some research and found 
 a database of water quality testing done by the City of Austin from 1982 to 2025, which piqued my interest. By sifting through thousands of water samples, I set out to answer a simple question: What kinds of metals are in the local water, and how are they changing over time?
-## [LINK TO THE PROJECT](https://avrillozano.shinyapps.io/Project3/)
 ## My takeaways
 1. Most levels are very low. More than 85% of all samples showed very small amounts of metals (under 100 micrograms per liter).
 2. Metal levels don't steadily go up or down over the years. Instead, they spike randomly (probably during big weather events like big rainstorms (analysis on that coming soon!)) and quickly settle back down.
