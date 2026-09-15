@@ -14,6 +14,17 @@ Everyday / Essential Metals: Metals like Aluminum, Iron, Zinc, Copper, and Calci
 Within non-toxic metals that occur naturally, like Aluminum, Iron, Zinc, Copper, and Calcium, the highest overall were Aluminum and Strontium.
 
 Within the toxic metals, Lead and Cadmium made up the majority of the tests. Additionally, Lead and Barium showed the highest average readings among toxic metals, though overall numbers stayed low.
+
+## Packages used
+```{r}
+library(shiny)
+library(bslib)
+library(tidyverse)
+library(tidytext)
+library(kableExtra)
+library(ggridges)
+library(lubridate)
+```
 ## Sources
 Water Quality Sampling Data | Open Data | City of Austin, Texas. (Accessed 2025, November 13). https://data.austintexas.gov/Environment/Water-Quality-Sampling-Data/5tye-7ray/about_data
 
